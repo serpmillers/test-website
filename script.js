@@ -1,0 +1,1 @@
+alert("Welcome to the website I created using whatever braincells I am left with after majors.")
