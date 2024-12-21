@@ -79,7 +79,7 @@ hr {
 }
 
 body {
-    background: url('Images/Background.jpg') no-repeat center center fixed;
+    background: url('Images/Background.jpeg') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0px;
